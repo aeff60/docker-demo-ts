@@ -1,3 +1,5 @@
+"# docker-demo-ts" 
+
 TypeScript project for a Docker demo 
 
 
@@ -99,3 +101,4 @@ docker build -t your-image-name .
 ```bash
 docker run your-image-name
 ```
+
